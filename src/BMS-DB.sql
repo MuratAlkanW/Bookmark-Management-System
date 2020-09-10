@@ -1,8 +1,3 @@
---WAMP
---MySQL Port number : 3306
---Database name: bms
---username: root
---password: ""
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
