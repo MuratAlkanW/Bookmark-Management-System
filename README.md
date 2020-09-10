@@ -2,4 +2,4 @@
 
 **MySQL** (3306)
 <br />
-**PhpMyAdmin** (Username:root - Password:"")
+**PhpMyAdmin** (Username: root - Password: " ")
