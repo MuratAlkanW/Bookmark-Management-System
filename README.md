@@ -1,4 +1,5 @@
-# CTIS 256 - Web Term Project | Bookmark Management System
+# Bookmark Management System
+CTIS256 - Term Project 
 
 **MySQL** (3306)
 <br />
