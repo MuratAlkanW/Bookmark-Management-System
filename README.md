@@ -1,2 +1,2 @@
 # Bookmark Management System
-CTIS256 - Web Term Project
+> CTIS256 - Term Project
